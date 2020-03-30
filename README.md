@@ -1,1 +1,1 @@
-# SIcalculator
+# sicalculator
